@@ -1,7 +1,7 @@
 # BARRAGE / Pocket Tanks MAX — Audit R1 Report
 
-**Build audited:** commit `4f809cb` "BARRAGE R1: first playable multiplayer artillery build" on `main`, Adityasuresh109/Pocket-Tanks-MAX
-**Live deploy:** Pages https://adityasuresh109.github.io/Pocket-Tanks-MAX/ · Worker https://pocket-tanks-max.adityasuresh2110.workers.dev
+**Build audited:** commit `4f809cb` "BARRAGE R1: first playable multiplayer artillery build" on `main`, TheCuriosityLab109/Pocket-Tanks-MAX
+**Live deploy:** Pages https://thecuriositylab109.github.io/Pocket-Tanks-MAX/ · Worker https://pocket-tanks-max.adityasuresh2110.workers.dev
 **Auditor:** Zuko · **Date:** 2026-11-19 · **Contract:** BUILD_BRIEF.md §9 (13 checks)
 
 ## VERDICT: NOT PRODUCTION READY — strong foundation, core contract holds

@@ -267,7 +267,7 @@ Zuko will run these against the live build. Report actual measured numbers in th
 ## 10. Limits — do not build past these
 - **Personal party game only.** No charging, no paywall, no app-store submission.
 - **Two steps are Aditya's, not the builder's:** he creates the GitHub repo, and he does the Cloudflare login at deploy time.
-- **AD Arcade hub:** do not edit the live hub (`hub.html` in Adityasuresh109/AD-Arcade) in this build. A hub card for BARRAGE is a separate step **after** Zuko's audit passes, the way DecryptIT was added only after its audit.
+- **AD Arcade hub:** do not edit the live hub (`hub.html` in TheCuriosityLab109/AD-Arcade) in this build. A hub card for BARRAGE is a separate step **after** Zuko's audit passes, the way DecryptIT was added only after its audit.
 - **Do not touch his other live games** (Mafia, Puppet Panic, Two Rooms, DecryptIT, WTF Quiz) — this is a new repo, a new game.
 - Nothing is deployed or published until Aditya says go. This brief is the deliverable; the build follows his repo.
 

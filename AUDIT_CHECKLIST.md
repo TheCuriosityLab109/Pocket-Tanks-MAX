@@ -1,7 +1,7 @@
 # BARRAGE — Zuko Audit Tracker
 
 **Brief:** BUILD_BRIEF.md (§9 is the contract)
-**Builder:** ChatGPT · **Auditor:** Zuko · **Repo:** Adityasuresh109/Pocket-Tanks-MAX
+**Builder:** ChatGPT · **Auditor:** Zuko · **Repo:** TheCuriosityLab109/Pocket-Tanks-MAX
 **Status:** R3+R4 audited 2026-11-20 — **NOT PRODUCTION READY**, rehearsal only: the owner accepted the full R3 endgame package on 2026-11-20, so check 6 passes; checks 11/12/13 (real devices) remain (reports: AUDIT_R1_REPORT.md, AUDIT_R2_REPORT.md, AUDIT_R3_R4_REPORT.md)
 
 ## How the audit runs (same loop as Mafia / Two Rooms / DecryptIT)
